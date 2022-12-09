@@ -1,0 +1,23 @@
+.poster img {
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+}
+@media (min-width: 176px) {
+  .poster img {
+    width: auto;
+    height: 70vh;
+  }
+}
+@media (min-width: 576px) {
+  .poster img {
+    width: auto;
+    height: 80vh;
+  }
+}
+@media (min-width: 992px) {
+  .poster img {
+    width: auto;
+    height: 90vh;
+  }
+}

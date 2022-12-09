@@ -1,0 +1,33 @@
+.contactUs{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 50px !important;
+
+  .icons{
+    margin-bottom: 50px;
+  }
+
+  h1{
+    text-align: center;
+    font-weight: 700;
+    color: var(--bs-primary);
+  }
+  p{
+    text-align: center;
+  }
+  .title{
+    content: '';
+    width: 60px;
+    height: 5px;
+    background: var(--bs-blue);
+    place-self: center;
+    margin-bottom: 50px; 
+  }
+  .email{
+    color: #010326;
+    text-decoration: none;
+  }
+  a{
+    color:#010326
+  }
+}
