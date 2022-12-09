@@ -1,7 +1,7 @@
 import React from 'react'
 import { Col, Row } from 'react-bootstrap';
 // import imgPrincipal from "./Assets/fondoVIVI.jpg";
-import prueba from "../../Assets/prueba.gif";
+import prueba from "../../Assets/ViViPoster.jpg";
 import "./Home.scss"
 
 function Home() {
